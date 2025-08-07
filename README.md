@@ -83,15 +83,7 @@ simon-says-game/
 - Your score is based on the highest level reached
 - Try to beat your personal best!
 
-## 🚀 Future Enhancements
 
-Potential features to add:
-- [ ] Sound effects for each button
-- [ ] High score persistence using localStorage
-- [ ] Different difficulty modes (speed variations)
-- [ ] Mobile touch optimization
-- [ ] Multiplayer mode
-- [ ] Different color themes
 
 ## 🤝 Contributing
 
@@ -113,3 +105,4 @@ Challenge yourself and see how many levels you can complete. Good luck! 🍀
 
 ---
 *Made with ❤️ and JavaScript*
+
