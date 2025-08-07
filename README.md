@@ -2,6 +2,9 @@
 
 A classic memory game built with HTML, CSS, and JavaScript! Test your memory by following the sequence of colored buttons that light up.
 
+🎮 Try it live:
+🔗 https://jaypatwa21.github.io/Simon-Says-Game/
+
 ## 🎯 How to Play
 
 1. **Start the Game**: Press any key to begin
@@ -105,4 +108,5 @@ Challenge yourself and see how many levels you can complete. Good luck! 🍀
 
 ---
 *Made with ❤️ and JavaScript*
+
 
